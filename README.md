@@ -1,4 +1,4 @@
-# CS7637_SP24-Planning-Problem
+# Blocks World Problem w/ Planning
 
 ## Overview
 This report presents an ai agent designed to solve a given Blocks World Problem.  The agent solves for the sequence of actions to reach a goal state. The agent presented offers a linear-time algo-rithm to build a sequence of action to move the blocks to the goal state.
